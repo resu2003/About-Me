@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R PRANEETH</h1>
-<h3 align="center">I am a 3rd year Computer Science Engineering undergraduate with a focus on Cybersecurity and IoT. I am passionate about leveraging technology to enhance security measures and solve real-world problems. With hands-on experience in threat detection, incident response, and biometric authentication, I aim to contribute effectively to organisational security.</h3>
+<h2 align="center">I am a 3rd year Computer Science Engineering undergraduate with a focus on Cybersecurity and IoT. I am passionate about leveraging technology to enhance security measures and solve real-world problems. With hands-on experience in threat detection, incident response, and biometric authentication, I aim to contribute effectively to organisational security.</h3>
 
 <p align="left"> <a href="https://twitter.com/@praneethresu" target="blank"><img src="https://img.shields.io/twitter/follow/@praneethresu?logo=twitter&style=for-the-badge" alt="@praneethresu" /></a> </p>
 
