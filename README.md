@@ -4,7 +4,7 @@
 
  <h3 align="center">✍️ Quote 
 
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)]()</h3>
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)]()</h3>
 
 ## <h2 align="center"> 💫 About Me:</h2>
 <h4 align="justify">
