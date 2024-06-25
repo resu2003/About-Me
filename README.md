@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm R PRANEETH</h1>
 
-[![](https://visitcount.itsvg.in/api?id=resu2003&icon=1&color=4)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitcount.itsvg.in/api?id=resu2003&icon=1&color=4)](https://visitcount.itsvg.in" alt="Profile visitor" /><br>
 
  <h3 align="center">✍️ Quote 
 
@@ -14,7 +14,7 @@
 - 🤝 I am looking for internships and jobs in Cybersecurity & Data Analytics.<br>
 - 🌱 I am currently learning various tools and technologies involved in Cybersecurity, Front-end Development, & Data Analytics.<br>
 - ⚡ Fun fact: Did you know your password is like your toothbrush? You shouldn't share it with anyone, and you should change it regularly! Both keep things clean and secure!
-- My aim is to leverage technology to improve security measures, solve real-world problems, and contribute effectively to organizational security.
+- I aim to leverage technology to improve security measures, solve real-world problems, and contribute effectively to organizational security.
 - 📫 How to reach me **resupraneeth@gmail.com**
 - 📄 Know about my experiences: [https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link](https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link)
 </h3>
