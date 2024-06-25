@@ -7,16 +7,19 @@
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)]()</h3>
 
 ## <h2 align="center"> 💫 About Me:</h2>
-<h3 align="justify">
+<h4 align="justify">
+
+<img align="right" width="350" src="https://github.com/resu2003/resu2003/blob/main/cyber.webp" alt="Coding gif" />
 
 - 🔭 I'm a passionate and enthusiastic individual with a strong interest in technology and innovation. I'm a student currently studying at Sri Ramachandra Faculty of Engineering & Technology (SRET), Porur, Chennai.<br>
-- 👯 I am currently pursuing a B. Tech degree in Computer Science & Engineering (Cybersecurity & IoT).<br>
+- 👯 I am currently pursuing a B. Tech degree in Computer Science & Engineering (Cybersecurity & IoT). <br>
 - 🤝 I am looking for internships and jobs in Cybersecurity & Data Analytics.<br>
 - 🌱 I am currently learning various tools and technologies involved in Cybersecurity, Front-end Development, & Data Analytics.<br>
 - ⚡ Fun fact: Did you know your password is like your toothbrush? You shouldn't share it with anyone, and you should change it regularly! Both keep things clean and secure!
 - I aim to leverage technology to improve security measures, solve real-world problems, and contribute effectively to organizational security.
 - 📫 How to reach me **resupraneeth@gmail.com**
-- 📄 Know about my experiences: [https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link](https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link)
+- 📄 Know about my experiences: <br>
+[https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link](https://drive.google.com/file/d/15Mt2jFdTOK8awmvKErhF-V06qVmCCSv0/view?usp=drive_link)
 </h3>
 <br>
 <p align="center">
